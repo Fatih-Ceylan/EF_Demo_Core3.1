@@ -1,0 +1,46 @@
+﻿@model BusinessDto.Menu.MenuDto
+
+@{
+    ViewData["Title"] = "DeleteMenu1";
+}
+
+<h1>DeleteMenu</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    
+    <hr />
+
+
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Adi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Adi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Code)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Code)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.IsDeleted)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.IsDeleted)
+        </dd>
+    </dl>
+    
+    <form asp-action="DeleteMenu">
+        <input type="submit" value="Delete" class="btn btn-danger" asp-action="MenuSil"/> |
+        <a asp-action="Menu_Listele">Back to List</a>
+    </form>
+</div>

@@ -1,0 +1,16 @@
+C:\Users\feti\source\repos\BusinessDto\bin\Debug\netcoreapp3.1\BusinessDto.deps.json
+C:\Users\feti\source\repos\BusinessDto\bin\Debug\netcoreapp3.1\BusinessDto.dll
+C:\Users\feti\source\repos\BusinessDto\bin\Debug\netcoreapp3.1\BusinessDto.pdb
+C:\Users\feti\source\repos\BusinessDto\obj\Debug\netcoreapp3.1\BusinessDto.AssemblyInfoInputs.cache
+C:\Users\feti\source\repos\BusinessDto\obj\Debug\netcoreapp3.1\BusinessDto.AssemblyInfo.cs
+C:\Users\feti\source\repos\BusinessDto\obj\Debug\netcoreapp3.1\BusinessDto.dll
+C:\Users\feti\source\repos\BusinessDto\obj\Debug\netcoreapp3.1\BusinessDto.pdb
+C:\Users\feti\source\repos\BusinessDto\obj\Debug\netcoreapp3.1\BusinessDto.csprojAssemblyReference.cache
+C:\Users\feti\source\repos\EntityCore_3.1\BusinessDto\bin\Debug\netcoreapp3.1\BusinessDto.deps.json
+C:\Users\feti\source\repos\EntityCore_3.1\BusinessDto\bin\Debug\netcoreapp3.1\BusinessDto.dll
+C:\Users\feti\source\repos\EntityCore_3.1\BusinessDto\bin\Debug\netcoreapp3.1\BusinessDto.pdb
+C:\Users\feti\source\repos\EntityCore_3.1\BusinessDto\obj\Debug\netcoreapp3.1\BusinessDto.csprojAssemblyReference.cache
+C:\Users\feti\source\repos\EntityCore_3.1\BusinessDto\obj\Debug\netcoreapp3.1\BusinessDto.AssemblyInfoInputs.cache
+C:\Users\feti\source\repos\EntityCore_3.1\BusinessDto\obj\Debug\netcoreapp3.1\BusinessDto.AssemblyInfo.cs
+C:\Users\feti\source\repos\EntityCore_3.1\BusinessDto\obj\Debug\netcoreapp3.1\BusinessDto.dll
+C:\Users\feti\source\repos\EntityCore_3.1\BusinessDto\obj\Debug\netcoreapp3.1\BusinessDto.pdb

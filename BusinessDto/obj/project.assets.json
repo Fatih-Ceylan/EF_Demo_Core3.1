@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\BusinessDto\\BusinessDto.csproj",
+      "projectUniqueName": "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\BusinessDto\\BusinessDto.csproj",
       "projectName": "BusinessDto",
-      "projectPath": "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\BusinessDto\\BusinessDto.csproj",
+      "projectPath": "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\BusinessDto\\BusinessDto.csproj",
       "packagesPath": "C:\\Users\\feti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\BusinessDto\\obj\\",
+      "outputPath": "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\BusinessDto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

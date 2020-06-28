@@ -7264,11 +7264,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\EntityCore3.1\\EntityCore3.1.csproj",
+      "projectUniqueName": "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\EntityCore3.1\\EntityCore3.1.csproj",
       "projectName": "EntityCore3.1",
-      "projectPath": "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\EntityCore3.1\\EntityCore3.1.csproj",
+      "projectPath": "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\EntityCore3.1\\EntityCore3.1.csproj",
       "packagesPath": "C:\\Users\\feti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\EntityCore3.1\\obj\\",
+      "outputPath": "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\EntityCore3.1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7287,8 +7287,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\Business\\Business.csproj"
+            "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\Business\\Business.csproj"
             }
           }
         }

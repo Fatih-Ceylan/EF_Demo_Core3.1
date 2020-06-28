@@ -4921,11 +4921,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\feti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\Business\\obj\\",
+      "outputPath": "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4944,11 +4944,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\BusinessDto\\BusinessDto.csproj": {
-              "projectPath": "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\BusinessDto\\BusinessDto.csproj"
+            "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\BusinessDto\\BusinessDto.csproj": {
+              "projectPath": "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\BusinessDto\\BusinessDto.csproj"
             },
-            "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\feti\\source\\repos\\EntityCore_3.1\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\feti\\Documents\\GitHub\\EF_Demo_Core3.1\\DataAccess\\DataAccess.csproj"
             }
           }
         }

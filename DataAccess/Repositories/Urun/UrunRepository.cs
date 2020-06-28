@@ -1,7 +1,5 @@
 ﻿using DataAccess.Models;
-using System;
 using System.Linq;
-
 namespace DataAccess.Repositories
 {
     public class UrunRepository : IUrunRepository

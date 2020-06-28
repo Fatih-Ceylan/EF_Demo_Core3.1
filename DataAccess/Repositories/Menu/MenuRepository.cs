@@ -29,7 +29,7 @@ namespace DataAccess.Repositories
         //}
         public Menu DeleteMenu(long id)
         {
-            var delete = _context.Menu.FirstOrDefault(a =>a.Id == id);
+            var delete = _context.Menu.FirstOrDefault(a => a.Id == id);
             if (delete != null)
             {
                 _context.Menu.Remove(delete);

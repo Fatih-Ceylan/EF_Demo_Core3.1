@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-
 namespace BusinessDto.Menu
 {
     public class MenuDto
@@ -13,6 +12,5 @@ namespace BusinessDto.Menu
         {
             MenuDtoList = new List<MenuDto>();
         }
-
     }
 }

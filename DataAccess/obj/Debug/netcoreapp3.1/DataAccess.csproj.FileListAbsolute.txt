@@ -24,3 +24,16 @@ C:\Users\feti\source\repos\EntityCore_3.1\DataAccess\obj\Debug\netcoreapp3.1\Dat
 C:\Users\feti\source\repos\EntityCore_3.1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
 C:\Users\feti\source\repos\EntityCore_3.1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\feti\source\repos\EntityCore_3.1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\feti\Documents\GitHub\EF_Demo_Core3.1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\feti\Documents\GitHub\EF_Demo_Core3.1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\feti\Documents\GitHub\EF_Demo_Core3.1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\feti\Documents\GitHub\EF_Demo_Core3.1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\feti\Documents\GitHub\EF_Demo_Core3.1\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\feti\Documents\GitHub\EF_Demo_Core3.1\DataAccess\bin\Debug\netcoreapp3.1\BusinessDto.dll
+C:\Users\feti\Documents\GitHub\EF_Demo_Core3.1\DataAccess\bin\Debug\netcoreapp3.1\BusinessDto.pdb
+C:\Users\feti\Documents\GitHub\EF_Demo_Core3.1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\feti\Documents\GitHub\EF_Demo_Core3.1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\feti\Documents\GitHub\EF_Demo_Core3.1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\feti\Documents\GitHub\EF_Demo_Core3.1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\feti\Documents\GitHub\EF_Demo_Core3.1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\feti\Documents\GitHub\EF_Demo_Core3.1\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

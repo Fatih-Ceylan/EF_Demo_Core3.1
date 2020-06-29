@@ -1,7 +1,5 @@
 ﻿using BusinessDto.Menu;
-using System;
 using System.Collections.Generic;
-using System.Text;
 namespace Business.Services
 {
     public interface IMenuService
@@ -11,6 +9,6 @@ namespace Business.Services
         //long DeleteMenu(MenuDto id);
         MenuDto DeleteMenu(long id);
         //List<MenuDto> DeleteMenu(int id);
-       
+
     }
 }

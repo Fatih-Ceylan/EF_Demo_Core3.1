@@ -3,9 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using EntityCore3._1.Models;
 using Business.Services;
 using Business.Services.UrunIslemleri;
-using BusinessDto;
-using System.Xml.Linq;
-using System;
 
 namespace EntityCore3._1.Controllers
 {
@@ -59,7 +56,7 @@ namespace EntityCore3._1.Controllers
         public IActionResult MenuSil(int id)
         {
             _menuservice.DeleteMenu(id);
-             
+
             return RedirectToAction("Menu_Listele");
         }
         public IActionResult Privacy()

@@ -4,7 +4,6 @@ using DataAccess.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-
 namespace Business.Services
 {
     public class MenuService : IMenuService
@@ -24,7 +23,6 @@ namespace Business.Services
             });
             return result;
         }
-
         public List<MenuDto> GetMenus()
         {
             var menuEntityList = _menuRepository.GetMenus();
@@ -43,10 +41,8 @@ namespace Business.Services
         //    List<MenuDto> menus = new List<MenuDto>() { };
         //    var menu = menus.FirstOrDefault(a => a.Id == id);
         //    menus.Remove(menu);
-
         //    return (menus);
         //}
-
         public MenuDto DeleteMenu(long id)
         {
             var result = new MenuDto();
@@ -60,8 +56,8 @@ namespace Business.Services
             result.Code = delete.Code;
             result.IsDeleted = true;
             return result;
-
         }
+
         //public MenuDto DeleteMenu(long id)
         //{
         //    var delete = _menuRepository.DeleteMenu(id);
@@ -78,6 +74,5 @@ namespace Business.Services
         //    };
         //    return result;
         //}
-
     }
 }

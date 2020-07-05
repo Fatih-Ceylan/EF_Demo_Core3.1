@@ -9,6 +9,5 @@ namespace Business.Services
         //long DeleteMenu(MenuDto id);
         MenuDto DeleteMenu(long id);
         //List<MenuDto> DeleteMenu(int id);
-
     }
 }

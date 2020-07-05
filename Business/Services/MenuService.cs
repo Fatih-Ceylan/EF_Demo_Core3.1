@@ -33,7 +33,6 @@ namespace Business.Services
                 Id = r.Id
             }).ToList();
         }
-
         /// null dönüyor
         //public List<MenuDto> DeleteMenu(int id)
         //{
@@ -57,7 +56,6 @@ namespace Business.Services
             result.IsDeleted = true;
             return result;
         }
-
         //public MenuDto DeleteMenu(long id)
         //{
         //    var delete = _menuRepository.DeleteMenu(id);

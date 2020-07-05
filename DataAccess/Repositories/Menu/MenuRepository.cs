@@ -20,6 +20,7 @@ namespace DataAccess.Repositories
         {
             return _context.Menu.Where(r => r.IsDeleted == false).ToList();
         }
+
         //public long DeleteMenu(Menu id)
         //{
         //    var delete = _context.Menu.Find(id);

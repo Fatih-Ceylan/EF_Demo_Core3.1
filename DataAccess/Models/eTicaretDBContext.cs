@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+
 namespace DataAccess.Models
 {
     public partial class eTicaretDBContext : DbContext

@@ -4,6 +4,7 @@ using DataAccess.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+
 namespace Business.Services
 {
     public class MenuService : IMenuService
@@ -33,6 +34,7 @@ namespace Business.Services
                 Id = r.Id
             }).ToList();
         }
+
         /// null dönüyor
         //public List<MenuDto> DeleteMenu(int id)
         //{
